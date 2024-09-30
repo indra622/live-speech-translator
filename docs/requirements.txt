@@ -1,4 +1,3 @@
 sphinx
 sphinx-rtd-theme  # Read the Docs에서 사용하는 기본 테마
 sphinx-autobuild # 문서를 자동으로 빌드하는 플러그인 (선택사항)
-sphinx.ext.napoleon  # Google 및 NumPy 스타일 docstring을 지원하는 확장
